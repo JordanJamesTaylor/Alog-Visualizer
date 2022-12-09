@@ -1,2 +1,2 @@
 # Alog-Visualizer-
-UI demonstrating various algorithmic patterns. 
+GUI demonstrating various algorithmic patterns. 
