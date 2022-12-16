@@ -1,0 +1,22 @@
+.homeContainer {
+  background-color: rgb(126, 126, 142);
+  width: 60%;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* display: grid;
+  grid-template-columns: 15% 15% 15% 8%;
+  justify-content: space-around;
+  border-bottom: 3px solid white;
+  align-items: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.array-element {
+  margin: 5%;
+}
+
